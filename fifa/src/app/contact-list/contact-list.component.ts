@@ -8,7 +8,6 @@ import {DataService} from'../data.service';
 })
 export class ContactListComponent implements OnInit {
 
-  
 
   contacts;
   selectedContact;
